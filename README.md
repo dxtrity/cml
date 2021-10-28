@@ -2,10 +2,8 @@
 
 ## ⚠ **WARNING** ⚠
 **THIS LANGUAGE IS STILL UNDER *HEAVY* DEVELOPMENT**
-
 # 
-**Compiled Markup Language** or **CML** is a language that aims to ease the creation of HTML documents. Every `.cml` file is compiled into a fully working `index.html` file with all of the content specified inside of the main source file.
-
+**Compiled Markup Language** or **CML** is a markup language that aims to ease the creation of **HTML documents**. Every `.cml` file is compiled into a fully working `index.html` file with all of the content specified inside of the main source file.
 
 ### **An Example**
 This is an example of how a `.cml` file is structed.
