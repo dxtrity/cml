@@ -8,10 +8,15 @@
 ### **An Example**
 This is an example of how a `.cml` file is structed.
 
-    body 
-        header this-is-a-class
-            div Another-Class
-                h1 "This is some text"
+    body <
+        header this-is-a-class <
+            div Another-Class <
+                h1 < 
+                    "This is some text"
+                >
+            >
+        >
+    >
 
 **CML** uses indentation as a way to tell where a tag ends and where it should be placed.
 
