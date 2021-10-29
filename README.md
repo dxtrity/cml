@@ -18,7 +18,7 @@ This is an example of how a `.cml` file is structed.
         >
     >
 
-**CML** uses indentation as a way to tell where a tag ends and where it should be placed.
+**CML** replaced the need for closing tags. Making it faster to code with. You need half as much code!
 
 ### **After Compilation**:
 
